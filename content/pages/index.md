@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: '/images/Macaw, Building and empowering.webp'
       altText: '"Powering Today, Building Tomorrow."'
       elementId: ''
       type: ImageBlock
