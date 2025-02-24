@@ -329,6 +329,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Macaw
       - label: See Tutorials
         url: /
         showIcon: true
