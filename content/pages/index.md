@@ -42,7 +42,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: It Feels like home
+      label: Macaw-It Feels like home
       color: text-primary
       type: Badge
     elementId: ''
