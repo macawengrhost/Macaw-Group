@@ -243,7 +243,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: '"Fast-Track Service for Uninterrupted Elevation."'
     text: >+
       *   **24/7 Support**: Always available for quick assistance.
 
