@@ -194,7 +194,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/AsirLogo.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/fujita logo.jpg
