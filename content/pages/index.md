@@ -429,11 +429,10 @@ sections:
       - title: What Customers Say About Macaw
         tagline: It Feels Like Home.
         subtitle: '"Excellent Customer Support!"'
-        text: >+
+        text: >
           *"I had an issue with one of our lifts, and Macaw’s customer service
           team was responsive and had it fixed in no time. Their dedication to
-          service is truly remarkable!"* – **Amina B.**
-
+          service is truly remarkable!"* – **Anando Karmokar.**
         image:
           url: /images/56301810_605462816532094_4479445079190142976_n.jpg
           altText: Maria Walters
