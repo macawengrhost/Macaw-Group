@@ -295,6 +295,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Macaw Engineering
       - label: See Tutorials
         url: /
         showIcon: true
