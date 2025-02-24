@@ -28,7 +28,7 @@ sections:
         elementId: ''
         type: Button
       - label: See Tutorials
-        altText: ''
+        altText: Find your products
         url: 'https://macauelevator.com.bd/'
         showIcon: true
         icon: arrowRight
