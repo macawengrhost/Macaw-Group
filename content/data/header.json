@@ -21,15 +21,6 @@
             "type": "Link"
         },
         {
-            "label": "Emails",
-            "altText": "Emails",
-            "url": "macawgroup@gmail.com",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Our business",
             "altText": "Macaw Elevator Ltd.",
             "links": [
@@ -63,6 +54,15 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Emails",
+            "altText": "Emails",
+            "url": "macawgroup@gmail.com",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
