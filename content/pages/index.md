@@ -197,7 +197,7 @@ sections:
         altText: Asir elevator
         type: ImageBlock
       - url: /images/perkins.png
-        altText: Rangle logo
+        altText: Perkins
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
