@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Gucbir Generator.jpeg
-  altText: Case study 1
+  altText: GUCBIR GENERATOR
   styles:
     self:
       borderRadius: large
