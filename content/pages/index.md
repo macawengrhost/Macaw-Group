@@ -151,7 +151,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'http://macauelevator.com.bd/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
