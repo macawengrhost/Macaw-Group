@@ -355,7 +355,7 @@ sections:
       posts.
     actions:
       - label: Get started
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: secondary
