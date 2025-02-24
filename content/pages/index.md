@@ -426,7 +426,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: ''
+      - title: Macaw
         tagline: It Feels Like Home.
         subtitle: 'Macaw, Company'
         text: >-
