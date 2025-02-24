@@ -197,7 +197,7 @@ sections:
       - url: /images/AsirLogo.jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/fujita logo.jpg
+      - url: /images/perkins.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
