@@ -188,11 +188,11 @@ sections:
       - url: /images/sigma logo.jpeg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/weichai-logo.png
-        altText: Telus logo
-        type: ImageBlock
       - url: /images/download.png
         altText: Contentful logo
+        type: ImageBlock
+      - url: /images/weichai-logo.png
+        altText: Telus logo
         type: ImageBlock
       - url: /images/AsirLogo.jpg
         altText: Sanity logo
