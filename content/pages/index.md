@@ -428,7 +428,7 @@ sections:
     items:
       - title: What Customers Say About Macaw
         tagline: It Feels Like Home.
-        subtitle: 'Macaw, Company'
+        subtitle: '"Excellent Customer Support!"'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
