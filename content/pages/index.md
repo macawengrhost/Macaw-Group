@@ -150,7 +150,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Get started
-        altText: ''
+        altText: comtact with us
         url: 'http://macauelevator.com.bd/'
         showIcon: false
         icon: arrowRight
