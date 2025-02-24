@@ -123,13 +123,12 @@ sections:
       - title: 200%
         subtitle: Faster
         text: >+
-          *   *   **Reliability and Quality**: Commitment to delivering durable,
+          **Reliability and Quality**: Commitment to delivering durable,
           reliable, and high-performance products and services to meet client
           needs.
 
 
-
-
+          <div style="text-align: left"></div>
 
         image:
           url: /images/icon3.svg
