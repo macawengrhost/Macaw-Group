@@ -186,7 +186,7 @@ sections:
         altText: Fuji Elevator
         type: ImageBlock
       - url: /images/sigma logo.jpeg
-        altText: Vise logo
+        altText: Sigma Elevator
         type: ImageBlock
       - url: /images/download.png
         altText: Contentful logo
