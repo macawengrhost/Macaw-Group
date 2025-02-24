@@ -303,7 +303,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: '/images/Macaw, Building and empowering.webp'
       altText: Fun feature preview
       type: ImageBlock
     badge:
