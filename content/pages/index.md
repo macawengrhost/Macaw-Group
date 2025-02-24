@@ -191,7 +191,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/download (1).png
+      - url: /images/download.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/AsirLogo.jpg
