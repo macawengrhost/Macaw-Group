@@ -427,7 +427,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: ''
-        tagline: Testimonial 1
+        tagline: It Feels Like Home.
         subtitle: 'Macaw, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
