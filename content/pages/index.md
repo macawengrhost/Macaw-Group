@@ -715,11 +715,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      1️⃣ **"Get a Fast & Free Quote – Elevate with Confidence!"**
+      2️⃣ **"Customized Elevator Solutions at the Best Price!"**
+      3️⃣ **"Request Your Quote in Minutes – Hassle-Free & Reliable!"**
+      4️⃣ **"Smooth Rides, Smart Prices – Get Your Quote Today!"**
+      5️⃣ **"Quality Elevators, Quick Service – Let’s Get Started!"**
+
     media:
       fields:
         - name: name
