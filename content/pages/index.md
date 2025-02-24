@@ -19,7 +19,7 @@ sections:
 
     actions:
       - label: Get started
-        altText: ''
+        altText: Expert in Lifts
         url: 'https://macauelevator.com.bd/'
         showIcon: false
         icon: arrowRight
