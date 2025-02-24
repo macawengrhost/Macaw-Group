@@ -1,79 +1,75 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Our business",
+            "altText": "Macaw Elevator Ltd.",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Our business"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Macaw Engineering",
+                    "url": "https://macawengineering.com.bd/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Macaw"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Macaw Properties",
+                    "url": "www.macawproperties.com.bd",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Properties"
                 }
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Contact",
+            "altText": "01795797983, 01714109974",
+            "url": "https://macauelevator.com.bd/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Emails",
+            "altText": "Emails",
+            "url": "macawgroup@gmail.com",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "www.macauelevator.com.bd",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

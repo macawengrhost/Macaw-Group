@@ -1,16 +1,15 @@
 ---
-title: Case study 3
+title: SUBSTATION
 slug: case-study-3
-date: '2021-11-18'
+date: '2025-02-26'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
-  altText: Case study 3
+  url: /images/giant_61144.jpg
+  altText: Substation
   styles:
     self:
       borderRadius: x-large
