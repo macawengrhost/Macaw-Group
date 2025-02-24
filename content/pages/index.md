@@ -4,10 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        "Macaw provides high-quality lifts, generators, substations, solar
-        systems, and electrical solutions, with a vision to evolve into a
-        leading real estate developer in the future."
+      text: '"Powering Today, Building Tomorrow."'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
