@@ -189,7 +189,7 @@ sections:
         altText: Sigma Elevator
         type: ImageBlock
       - url: /images/download.png
-        altText: Contentful logo
+        altText: MoviLift
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
