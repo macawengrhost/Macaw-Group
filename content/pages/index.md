@@ -180,7 +180,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/download (2).png
-        altText: Empathy logo
+        altText: Fuji
         type: ImageBlock
       - url: /images/download (1).png
         altText: Fuji Elevator
