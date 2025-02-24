@@ -435,7 +435,7 @@ sections:
           service is truly remarkable!"* – **Amina B.**
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/56301810_605462816532094_4479445079190142976_n.jpg
           altText: Maria Walters
           styles:
             self:
