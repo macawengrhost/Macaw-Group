@@ -69,10 +69,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **Affordable Pricing**: Offering competitive and affordable prices
+          while maintaining high-quality products and services, which is one of
+          your core values.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
