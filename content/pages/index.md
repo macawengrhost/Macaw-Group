@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Expertise and Experience:'
     items:
       - type: FeaturedItem
         title: '212'
