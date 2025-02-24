@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: '/https://macauelevator.com.bd/'
+        url: 'https://macauelevator.com.bd/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
