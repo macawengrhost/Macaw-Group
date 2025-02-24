@@ -183,7 +183,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/download (1).png
-        altText: Wellster logo
+        altText: Fuji Elevator
         type: ImageBlock
       - url: /images/sigma logo.jpeg
         altText: Vise logo
