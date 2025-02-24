@@ -96,7 +96,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Satisfactory
         text: >
           **Diverse Product Range**: From lifts to generators, substations,
           solar systems, and electrical projects, Macaw provides a wide variety
