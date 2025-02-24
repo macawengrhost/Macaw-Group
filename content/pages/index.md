@@ -67,7 +67,7 @@ sections:
     subtitle: 'Expertise and Experience:'
     items:
       - type: FeaturedItem
-        title: 212 P
+        title: 212 Pro
         subtitle: Numbers Done
         text: >
           **Affordable Pricing**: Offering competitive and affordable prices
