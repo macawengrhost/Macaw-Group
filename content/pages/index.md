@@ -194,7 +194,7 @@ sections:
       - altText: Telus logo
         type: ImageBlock
       - url: /images/AsirLogo.jpg
-        altText: Sanity logo
+        altText: Asir elevator
         type: ImageBlock
       - url: /images/perkins.png
         altText: Rangle logo
