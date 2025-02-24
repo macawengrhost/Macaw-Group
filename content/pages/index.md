@@ -188,7 +188,7 @@ sections:
       - url: /images/sigma logo.jpeg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/weichai-logo.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/download.png
