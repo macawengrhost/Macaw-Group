@@ -191,8 +191,7 @@ sections:
       - url: /images/download.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/preview-928x522.jpg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
       - url: /images/AsirLogo.jpg
         altText: Sanity logo
