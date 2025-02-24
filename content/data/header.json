@@ -12,15 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Contact",
-            "altText": "01795797983, 01714109974",
-            "url": "https://macauelevator.com.bd/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Our business",
             "altText": "Macaw Elevator Ltd.",
             "links": [
@@ -54,6 +45,15 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Contact",
+            "altText": "01795797983, 01714109974",
+            "url": "https://macauelevator.com.bd/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Emails",
