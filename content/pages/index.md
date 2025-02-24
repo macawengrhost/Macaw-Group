@@ -426,7 +426,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: "\U0001F539 \"Unmatched Quality and Service!\"\"The team at Macaw was professional from start to finish. Their attention to detail in installing our elevator system was impressive, and the quality is unbeatable. Highly recommend!\" – Sarah R.\U0001F539 \"Reliable and Efficient!\"\"Macaw provided us with a state-of-the-art elevator system for our office building. Installation was quick, and the system has been running flawlessly. Great value for money!\" – John K.\U0001F539 \"Excellent Customer Support!\"\"I had an issue with one of our lifts, and Macaw’s customer service team was responsive and had it fixed in no time. Their dedication to service is truly remarkable!\" – Amina B.\U0001F539 \"Trustworthy and Affordable!\"\"We’ve worked with Macaw on several projects. Not only do they deliver high-quality elevators and electrical solutions, but their prices are the best in the market. We trust them for all our needs.\" – David M.\U0001F539 \"Innovative and Sustainable Solutions!\"\"Macaw’s solar systems helped us reduce energy costs while contributing to a greener environment. The installation was smooth, and the results were immediate. A true partner in sustainability.\" – Leela P."
+      - title: ''
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
