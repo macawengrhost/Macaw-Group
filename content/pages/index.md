@@ -355,7 +355,7 @@ sections:
       posts.
     actions:
       - label: Get started
-        url: ''
+        url: 'https://www.facebook.com/macawelevator/'
         icon: arrowRight
         iconPosition: right
         style: secondary
