@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/giant_61144.jpg
-  altText: Case study 3
+  altText: Substation
   styles:
     self:
       borderRadius: x-large
