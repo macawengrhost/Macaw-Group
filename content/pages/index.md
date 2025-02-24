@@ -38,7 +38,7 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: ''
+      altText: '"Powering Today, Building Tomorrow."'
       elementId: ''
       type: ImageBlock
     badge:
