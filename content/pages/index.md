@@ -67,7 +67,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: '212'
         subtitle: Numbers Done
         text: >
           **Affordable Pricing**: Offering competitive and affordable prices
