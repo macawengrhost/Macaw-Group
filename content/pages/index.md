@@ -381,7 +381,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Expert Product Consultation– Elevate with Confidence!
       color: text-dark
       type: TitleBlock
     subtitle: Get your best Solution
